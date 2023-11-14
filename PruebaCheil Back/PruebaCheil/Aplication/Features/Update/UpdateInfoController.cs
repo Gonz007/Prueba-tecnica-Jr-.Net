@@ -1,9 +1,5 @@
 ﻿using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using PruebaCheil.Aplication.Features.Update;
-using System;
-using System.Threading.Tasks;
 
 namespace PruebaCheil.Aplication.Features.Update
 {

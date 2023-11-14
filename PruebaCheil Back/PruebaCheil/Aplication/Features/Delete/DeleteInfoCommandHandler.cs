@@ -32,7 +32,6 @@ namespace PruebaCheil.Aplication.Features.Delete
                 {
                     DeletedHotelId = hotel.Id,
                     Message = "Hotel eliminado exitosamente",
-                    // Otros campos según tus necesidades
                 };
             }
             catch (Exception ex)
