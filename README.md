@@ -14,11 +14,7 @@ Funcionalidades:
 
 CRUD para gestión de hoteles.
 Endpoint para obtener información de hoteles con filtrado y paginación.
-Consulta de Ejemplo:
 
-sql
-Copy code
-SELECT TOP (1000) [Id], [Name], [Stars] FROM [HotelsBd].[dbo].[Hotels] ORDER BY Id;
 Frontend: Aplicación Angular
 Tecnologías:
 
@@ -28,12 +24,12 @@ Funcionalidades:
 
 Lista de hoteles con paginación.
 Búsqueda y filtrado de hoteles.
-Imágenes aleatorias de hoteles desde Unsplash.
+Imágenes aleatorias de hoteles para demostracion.
 Estructura del Proyecto:
 
 Backend: Carpetas Controllers y Services.
 Frontend: Componentes para lista, detalles y búsqueda.
 Consideraciones Adicionales:
-Script SQL para insertar 40 registros de ejemplo.
+Script SQL con 40 registros de ejemplo.
 Página responsive para dispositivos móviles y de escritorio.
 Optimización para entornos productivos.
