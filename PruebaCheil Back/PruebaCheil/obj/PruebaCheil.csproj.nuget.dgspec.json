@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\PruebaCheil.csproj": {}
+    "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\PruebaCheil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\PruebaCheil.csproj": {
+    "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\PruebaCheil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\PruebaCheil.csproj",
+        "projectUniqueName": "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\PruebaCheil.csproj",
         "projectName": "PruebaCheil",
-        "projectPath": "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\PruebaCheil.csproj",
+        "projectPath": "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\PruebaCheil.csproj",
         "packagesPath": "C:\\Users\\GNZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\obj\\",
+        "outputPath": "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GNZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

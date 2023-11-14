@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCaNJL9YO/BZKjPXM+6D/qm6NNHShNHuY9tQCihZtvQChozzreE4+WQpp7r4/vFuGsiFgHqpNe3zwdAoHwnb5w==",
+  "dgSpecHash": "Xvg1RYbPaH1CBzoHi1SGRKQGbO5TGpAZM9zt8mYb5Pt3jrBii//9ElXBOLH2eaYRzdqASSXXh/LT1qhFNGLZxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GNZ\\source\\repos\\PruebaCheil\\PruebaCheil\\PruebaCheil.csproj",
+  "projectFilePath": "C:\\Users\\GNZ\\Desktop\\Github\\Prueba-tecnica-Jr-.Net\\PruebaCheil Back\\PruebaCheil\\PruebaCheil.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GNZ\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\GNZ\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
