@@ -1,23 +1,18 @@
 # Prueba-tecnica-Jr-.Net
 Desarrollo de sistema basico de gestion de hoteles con Backend en .Net core y front Angular 16.
-
-
-Resumen del Proyecto: Sistema de Gestión de Hoteles
-
 Backend: API de Hoteles
-Tecnologías:
 
+# Tecnologías:
 ASP.NET Core (C#)
 Entity Framework Core para migracion y portabilidad del proyecto
 SQL Server
 
 
-Funcionalidades:
+# Funcionalidades:
 CRUD para gestión de hoteles.
 Endpoint para obtener información de hoteles con filtrado y paginación.
 
-Frontend: Aplicación Angular
-Tecnologías:
+# Frontend: Aplicación Angular
 
 Angular (TypeScript)
 Angular Material
