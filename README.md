@@ -11,17 +11,17 @@ SQL Server
 # Funcionalidades:
 CRUD para gestión de hoteles.
 Endpoint para obtener información de hoteles con filtrado y paginación.
-
+Lista de hoteles con paginación.
+Búsqueda y filtrado de hoteles.
+Imágenes aleatorias de hoteles para demostracion.
 # Frontend: Aplicación Angular
 
 Angular (TypeScript)
 Angular Material
 Funcionalidades:
 
-Lista de hoteles con paginación.
-Búsqueda y filtrado de hoteles.
-Imágenes aleatorias de hoteles para demostracion.
-Estructura del Proyecto:
+
+# Estructura del Proyecto:
 
 Backend: Carpetas Controllers y Services.
 Frontend: Componentes para lista, detalles y búsqueda.
