@@ -8,10 +8,11 @@ Backend: API de Hoteles
 Tecnologías:
 
 ASP.NET Core (C#)
-Entity Framework Core
+Entity Framework Core para migracion y portabilidad del proyecto
 SQL Server
-Funcionalidades:
 
+
+Funcionalidades:
 CRUD para gestión de hoteles.
 Endpoint para obtener información de hoteles con filtrado y paginación.
 
